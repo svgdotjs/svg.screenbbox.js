@@ -1,6 +1,6 @@
 {
   "name": "svg.screenbbox.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A plugin for svg.js which gets the bbox of a path/polygon/polyline after all transformations applied",
   "main": "dist/svg.screenbbox.js",
   "keywords": [
