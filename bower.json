@@ -1,0 +1,27 @@
+{
+  "name": "svg.screenbbox.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Fuzzyma/svg.screenbbox.js",
+  "authors": [
+    "Ulrich-Matthias Schäfer"
+  ],
+  "description": "A plugin for svg.js which gets the bbox of a path/polygon/polyline after all transformations applied",
+  "main": [
+    "./dist/svg.screenbbox.js"
+  ],
+  "keywords": [
+    "svg.js",
+    "bbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "svg.js":"^2.1.1"
+  }
+}

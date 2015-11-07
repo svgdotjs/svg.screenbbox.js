@@ -1,0 +1,39 @@
+{
+  "name": "svg.screenbbox.js",
+  "version": "0.1.0",
+  "description": "A plugin for svg.js which gets the bbox of a path/polygon/polyline after all transformations applied",
+  "main": "dist/svg.screenbbox.js",
+  "keywords": [
+    "svg.js",
+    "bbox"
+  ],
+  "bugs": "https://github.com/Fuzzyma/svg.screenbbox.js/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Ulrich-Matthias Schäfer"
+  },
+  "contributors": [
+    { "name": "Ulrich-Matthias Schäfer" }
+  ],
+  "files": [
+    "dist/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fuzzyma/svg.screenbbox.js.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt": "~0.4.5",
+    "grunt-bumper": "^1.0.4"
+  },
+  "dependencies": {
+    "svg.js":"^2.2.0"
+  }
+}
