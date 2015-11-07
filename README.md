@@ -13,7 +13,7 @@ var nested = draw.viewbox(0, 0, 300, 200).nested().viewbox(-50, 20, 200, 300)
 var path = draw.path('M150 0 L75 200 L225 200 Z').rotate(25).scale(0.5)
 
 // get bounding box in screen coordinates
-var bbox = path.screenbbox()
+var bbox = path.screenBBox()
 
 // do something with it, e.g. draw a reactangle around (with jQuery here)
 $('<div>').css({
