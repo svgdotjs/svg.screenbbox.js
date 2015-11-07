@@ -4,6 +4,12 @@ A plugin for the [svgjs](https://github.com/wout/svg.js) library which gets the 
 
 The returned bounding box is in the screens coordinate space which means that the scroll offset is not applied (same as with screenCTM)
 
+## Getting started
+
+
+    bower install svg.screenbbox.js
+
+
 ```javascript
 
 // add some viewbox madness to make this more interesting
