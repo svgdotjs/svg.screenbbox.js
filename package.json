@@ -7,7 +7,7 @@
     "svg.js",
     "bbox"
   ],
-  "bugs": "https://github.com/Fuzzyma/svg.screenbbox.js/issues",
+  "bugs": "https://github.com/svgdotjs/svg.screenbbox.js/issues",
   "license": "MIT",
   "author": {
     "name": "Ulrich-Matthias Schäfer"
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fuzzyma/svg.screenbbox.js.git"
+    "url": "https://github.com/svgdotjs/svg.screenbbox.js.git"
   },
   "engines": {
     "node": ">= 0.8.0"

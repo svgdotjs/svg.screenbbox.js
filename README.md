@@ -1,6 +1,6 @@
 # svg.screenbbox.js
 
-A plugin for the [svgjs](https://github.com/wout/svg.js) library which gets the bbox of a path/polygon/polyline after all transformations applied.
+A plugin for the [svgjs](https://github.com/svgdotjs/svg.js) library which gets the bbox of a path/polygon/polyline after all transformations applied.
 
 The returned bounding box is in the screens coordinate space which means that the scroll offset is not applied (same as with screenCTM)
 
